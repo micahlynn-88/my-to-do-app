@@ -1,3 +1,6 @@
+# Description
+This app is intended to allow a user to add all the tasks theyneed, for storage all in one place! If you change your mind about a task, the app allows you to delete the one you want to get rid of! This is a very simple and aesthetically designed app with all you need ina task manager!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
